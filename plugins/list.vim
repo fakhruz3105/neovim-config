@@ -25,7 +25,9 @@ call plug#begin()
     Plug 'airblade/vim-rooter' 
     Plug 'norcalli/nvim-colorizer.lua'
     Plug 'junegunn/rainbow_parentheses.vim'
-    
+    Plug 'mhinz/vim-startify'   
+    Plug 'terryma/vim-multiple-cursors'
+
     set encoding=UTF-8
 
 call plug#end()
