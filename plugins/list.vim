@@ -27,6 +27,7 @@ call plug#begin()
     Plug 'junegunn/rainbow_parentheses.vim'
     Plug 'mhinz/vim-startify'   
     Plug 'terryma/vim-multiple-cursors'
+    Plug 'APZelos/blamer.nvim'
 
     set encoding=UTF-8
 
