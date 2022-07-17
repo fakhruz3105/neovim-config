@@ -28,6 +28,7 @@ call plug#begin()
     Plug 'mhinz/vim-startify'   
     Plug 'terryma/vim-multiple-cursors'
     Plug 'APZelos/blamer.nvim'
+    Plug 'liuchengxu/vim-which-key'
 
     set encoding=UTF-8
 

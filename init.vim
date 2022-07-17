@@ -9,5 +9,6 @@ source $HOME/.config/nvim/plug-config/rainbow.vim
 source $HOME/.config/nvim/plug-config/start-screen.vim
 source $HOME/.config/nvim/plug-config/multiple-cursor.vim
 source $HOME/.config/nvim/plug-config/blamer.vim
+source $HOME/.config/nvim/plug-config/which-key.vim
 
 luafile $HOME/.config/nvim/lua/plug-colorizer.lua
