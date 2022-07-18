@@ -10,5 +10,7 @@ source $HOME/.config/nvim/plug-config/start-screen.vim
 source $HOME/.config/nvim/plug-config/multiple-cursor.vim
 source $HOME/.config/nvim/plug-config/blamer.vim
 source $HOME/.config/nvim/plug-config/which-key.vim
+source $HOME/.config/nvim/plug-config/floaterm.vim
+source $HOME/.config/nvim/plug-config/lazygit.vim
 
 luafile $HOME/.config/nvim/lua/plug-colorizer.lua

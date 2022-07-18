@@ -29,6 +29,8 @@ call plug#begin()
     Plug 'terryma/vim-multiple-cursors'
     Plug 'APZelos/blamer.nvim'
     Plug 'liuchengxu/vim-which-key'
+    Plug 'voldikss/vim-floaterm'
+    Plug 'kdheepak/lazygit.nvim'
 
     set encoding=UTF-8
 
